@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bcard-app/static/css/main.742c2ec6.css",
-    "main.js": "/bcard-app/static/js/main.12430da9.js",
+    "main.js": "/bcard-app/static/js/main.c70b5928.js",
     "static/js/453.2b1e6d3a.chunk.js": "/bcard-app/static/js/453.2b1e6d3a.chunk.js",
     "index.html": "/bcard-app/index.html",
     "main.742c2ec6.css.map": "/bcard-app/static/css/main.742c2ec6.css.map",
-    "main.12430da9.js.map": "/bcard-app/static/js/main.12430da9.js.map",
+    "main.c70b5928.js.map": "/bcard-app/static/js/main.c70b5928.js.map",
     "453.2b1e6d3a.chunk.js.map": "/bcard-app/static/js/453.2b1e6d3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.742c2ec6.css",
-    "static/js/main.12430da9.js"
+    "static/js/main.c70b5928.js"
   ]
 }
